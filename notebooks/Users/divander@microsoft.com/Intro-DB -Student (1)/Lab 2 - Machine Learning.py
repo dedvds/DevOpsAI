@@ -43,6 +43,7 @@ flights.count()
 flights.count() - flights.dropDuplicates().count()
 
 newdf=flight
+newdf2=newdf
 
 # COMMAND ----------
 
